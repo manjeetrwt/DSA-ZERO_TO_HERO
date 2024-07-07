@@ -1,5 +1,5 @@
 //1281.SUBTRACT THE PRODUCT AND SUM OF DIGIT OF AN INTEGER
-class Solution {
+class Solution{
 public:
     int subtractProductAndSum(int n) {
         int p=1;
