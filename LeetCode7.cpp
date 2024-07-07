@@ -1,4 +1,7 @@
 //REVERESE INTEGER
+#include <iostream>
+#include <math.h>
+#include <limits.h>
 class Solution {
 public:
     int reverse(int x) {
