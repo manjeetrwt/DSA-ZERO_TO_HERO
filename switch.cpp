@@ -21,6 +21,7 @@ int main(){
         case 4:if(b>a){
             cout<<"den cant be greather than num";
         }
+        
                 cout<<"the div is :"<<a/b;
         default:cout<<"might be invalid inputs";
 
