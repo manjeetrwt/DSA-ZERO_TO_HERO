@@ -10,7 +10,7 @@ int power(int a,int b){
         ans=ans*a;
     }
     return ans;
-}
+ }
 int main(){
     //without function using power of num
     /* int ans;
