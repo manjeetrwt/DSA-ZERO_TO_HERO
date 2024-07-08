@@ -15,7 +15,7 @@ int main(){
     //without function using power of num
     /* int ans;
     int a,b;
-    cout<<"enter the number";
+    cout<<"enter the number";//
     cin>>a;
     cout<<"enter the power";
     cin>>b;
