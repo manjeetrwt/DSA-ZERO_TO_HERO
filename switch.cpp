@@ -5,7 +5,7 @@ int main(){
     int a,b;
     cout<<"enter the first num \n";
     cin>>a;
-    cout<<"enter the Second num\n";
+    cout<<"enter the Second num \n";
     cin>>b;
     cout<<"enter 1 for add\n enter 2 for subtract \n enter 3 for multiplication \n 4 for division";
     int choice;
