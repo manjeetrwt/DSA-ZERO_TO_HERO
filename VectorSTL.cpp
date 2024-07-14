@@ -33,6 +33,7 @@ int main(){
 
     //poping the last element
     v.pop_back();
+    cout<<"after poping out\n";
     for(int i:v){ 
         cout<<i<<" "; //after poping out
     }

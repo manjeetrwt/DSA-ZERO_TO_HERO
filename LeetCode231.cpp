@@ -16,7 +16,6 @@ public:
 
                 ans= ans *2;
                 }
-
             }
              return false;
         }
